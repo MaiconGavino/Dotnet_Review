@@ -6,7 +6,7 @@
         {
             Pessoa p = new Pessoa();
             p.Nome = "Maicon";
-            p.Ano = 1997;
+            p.Ano = Convert.ToInt32(1997);
             p.ExibirDados();
         }
     }
