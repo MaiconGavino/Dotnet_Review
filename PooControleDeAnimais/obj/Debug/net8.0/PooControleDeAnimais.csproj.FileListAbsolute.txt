@@ -1,0 +1,15 @@
+/Users/maicongavino/dev/dotnet/DotnetReview/PooControleDeAnimais/bin/Debug/net8.0/PooControleDeAnimais
+/Users/maicongavino/dev/dotnet/DotnetReview/PooControleDeAnimais/bin/Debug/net8.0/PooControleDeAnimais.deps.json
+/Users/maicongavino/dev/dotnet/DotnetReview/PooControleDeAnimais/bin/Debug/net8.0/PooControleDeAnimais.runtimeconfig.json
+/Users/maicongavino/dev/dotnet/DotnetReview/PooControleDeAnimais/bin/Debug/net8.0/PooControleDeAnimais.dll
+/Users/maicongavino/dev/dotnet/DotnetReview/PooControleDeAnimais/bin/Debug/net8.0/PooControleDeAnimais.pdb
+/Users/maicongavino/dev/dotnet/DotnetReview/PooControleDeAnimais/obj/Debug/net8.0/PooControleDeAnimais.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maicongavino/dev/dotnet/DotnetReview/PooControleDeAnimais/obj/Debug/net8.0/PooControleDeAnimais.AssemblyInfoInputs.cache
+/Users/maicongavino/dev/dotnet/DotnetReview/PooControleDeAnimais/obj/Debug/net8.0/PooControleDeAnimais.AssemblyInfo.cs
+/Users/maicongavino/dev/dotnet/DotnetReview/PooControleDeAnimais/obj/Debug/net8.0/PooControleDeAnimais.csproj.CoreCompileInputs.cache
+/Users/maicongavino/dev/dotnet/DotnetReview/PooControleDeAnimais/obj/Debug/net8.0/PooControleDeAnimais.sourcelink.json
+/Users/maicongavino/dev/dotnet/DotnetReview/PooControleDeAnimais/obj/Debug/net8.0/PooControleDeAnimais.dll
+/Users/maicongavino/dev/dotnet/DotnetReview/PooControleDeAnimais/obj/Debug/net8.0/refint/PooControleDeAnimais.dll
+/Users/maicongavino/dev/dotnet/DotnetReview/PooControleDeAnimais/obj/Debug/net8.0/PooControleDeAnimais.pdb
+/Users/maicongavino/dev/dotnet/DotnetReview/PooControleDeAnimais/obj/Debug/net8.0/PooControleDeAnimais.genruntimeconfig.cache
+/Users/maicongavino/dev/dotnet/DotnetReview/PooControleDeAnimais/obj/Debug/net8.0/ref/PooControleDeAnimais.dll
