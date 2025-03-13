@@ -1,0 +1,15 @@
+/Users/maicongavino/dev/dotnet/DotnetReview/pooCalculaIdade/bin/Debug/net8.0/pooCalculaIdade
+/Users/maicongavino/dev/dotnet/DotnetReview/pooCalculaIdade/bin/Debug/net8.0/pooCalculaIdade.deps.json
+/Users/maicongavino/dev/dotnet/DotnetReview/pooCalculaIdade/bin/Debug/net8.0/pooCalculaIdade.runtimeconfig.json
+/Users/maicongavino/dev/dotnet/DotnetReview/pooCalculaIdade/bin/Debug/net8.0/pooCalculaIdade.dll
+/Users/maicongavino/dev/dotnet/DotnetReview/pooCalculaIdade/bin/Debug/net8.0/pooCalculaIdade.pdb
+/Users/maicongavino/dev/dotnet/DotnetReview/pooCalculaIdade/obj/Debug/net8.0/pooCalculaIdade.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maicongavino/dev/dotnet/DotnetReview/pooCalculaIdade/obj/Debug/net8.0/pooCalculaIdade.AssemblyInfoInputs.cache
+/Users/maicongavino/dev/dotnet/DotnetReview/pooCalculaIdade/obj/Debug/net8.0/pooCalculaIdade.AssemblyInfo.cs
+/Users/maicongavino/dev/dotnet/DotnetReview/pooCalculaIdade/obj/Debug/net8.0/pooCalculaIdade.csproj.CoreCompileInputs.cache
+/Users/maicongavino/dev/dotnet/DotnetReview/pooCalculaIdade/obj/Debug/net8.0/pooCalculaIdade.sourcelink.json
+/Users/maicongavino/dev/dotnet/DotnetReview/pooCalculaIdade/obj/Debug/net8.0/pooCalculaIdade.dll
+/Users/maicongavino/dev/dotnet/DotnetReview/pooCalculaIdade/obj/Debug/net8.0/refint/pooCalculaIdade.dll
+/Users/maicongavino/dev/dotnet/DotnetReview/pooCalculaIdade/obj/Debug/net8.0/pooCalculaIdade.pdb
+/Users/maicongavino/dev/dotnet/DotnetReview/pooCalculaIdade/obj/Debug/net8.0/pooCalculaIdade.genruntimeconfig.cache
+/Users/maicongavino/dev/dotnet/DotnetReview/pooCalculaIdade/obj/Debug/net8.0/ref/pooCalculaIdade.dll

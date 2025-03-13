@@ -6,10 +6,13 @@ namespace pooMensagem
     {
         static void Main(string[] args)
         {
-            Mensagem msg1 = new Mensagem();
-            msg1.setTextoMensagem("Hello World!");
-            //msg1.ExibirMensagem();
-            Console.WriteLine(msg1.getTextoMensagem());
+            // Mensagem msg1 = new Mensagem();
+            // msg1.setTextoMensagem("Hello World!");
+            // //msg1.ExibirMensagem();
+            // Console.WriteLine(msg1.getTextoMensagem());
+            Mensagem msg = new Mensagem();
+            msg.TextoMensagem = "Hello World!";
+            msg.ExibirMensagem();
         }
     }
 }
