@@ -1,0 +1,15 @@
+/Users/maicongavino/dev/dotnet/DotnetReview/pooMaiorIdade/bin/Debug/net8.0/pooMaiorIdade
+/Users/maicongavino/dev/dotnet/DotnetReview/pooMaiorIdade/bin/Debug/net8.0/pooMaiorIdade.deps.json
+/Users/maicongavino/dev/dotnet/DotnetReview/pooMaiorIdade/bin/Debug/net8.0/pooMaiorIdade.runtimeconfig.json
+/Users/maicongavino/dev/dotnet/DotnetReview/pooMaiorIdade/bin/Debug/net8.0/pooMaiorIdade.dll
+/Users/maicongavino/dev/dotnet/DotnetReview/pooMaiorIdade/bin/Debug/net8.0/pooMaiorIdade.pdb
+/Users/maicongavino/dev/dotnet/DotnetReview/pooMaiorIdade/obj/Debug/net8.0/pooMaiorIdade.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maicongavino/dev/dotnet/DotnetReview/pooMaiorIdade/obj/Debug/net8.0/pooMaiorIdade.AssemblyInfoInputs.cache
+/Users/maicongavino/dev/dotnet/DotnetReview/pooMaiorIdade/obj/Debug/net8.0/pooMaiorIdade.AssemblyInfo.cs
+/Users/maicongavino/dev/dotnet/DotnetReview/pooMaiorIdade/obj/Debug/net8.0/pooMaiorIdade.csproj.CoreCompileInputs.cache
+/Users/maicongavino/dev/dotnet/DotnetReview/pooMaiorIdade/obj/Debug/net8.0/pooMaiorIdade.sourcelink.json
+/Users/maicongavino/dev/dotnet/DotnetReview/pooMaiorIdade/obj/Debug/net8.0/pooMaiorIdade.dll
+/Users/maicongavino/dev/dotnet/DotnetReview/pooMaiorIdade/obj/Debug/net8.0/refint/pooMaiorIdade.dll
+/Users/maicongavino/dev/dotnet/DotnetReview/pooMaiorIdade/obj/Debug/net8.0/pooMaiorIdade.pdb
+/Users/maicongavino/dev/dotnet/DotnetReview/pooMaiorIdade/obj/Debug/net8.0/pooMaiorIdade.genruntimeconfig.cache
+/Users/maicongavino/dev/dotnet/DotnetReview/pooMaiorIdade/obj/Debug/net8.0/ref/pooMaiorIdade.dll
