@@ -1,0 +1,15 @@
+/Users/maicongavino/dev/dotnet/DotnetReview/pooAreaRetangulo/bin/Debug/net8.0/pooAreaRetangulo
+/Users/maicongavino/dev/dotnet/DotnetReview/pooAreaRetangulo/bin/Debug/net8.0/pooAreaRetangulo.deps.json
+/Users/maicongavino/dev/dotnet/DotnetReview/pooAreaRetangulo/bin/Debug/net8.0/pooAreaRetangulo.runtimeconfig.json
+/Users/maicongavino/dev/dotnet/DotnetReview/pooAreaRetangulo/bin/Debug/net8.0/pooAreaRetangulo.dll
+/Users/maicongavino/dev/dotnet/DotnetReview/pooAreaRetangulo/bin/Debug/net8.0/pooAreaRetangulo.pdb
+/Users/maicongavino/dev/dotnet/DotnetReview/pooAreaRetangulo/obj/Debug/net8.0/pooAreaRetangulo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maicongavino/dev/dotnet/DotnetReview/pooAreaRetangulo/obj/Debug/net8.0/pooAreaRetangulo.AssemblyInfoInputs.cache
+/Users/maicongavino/dev/dotnet/DotnetReview/pooAreaRetangulo/obj/Debug/net8.0/pooAreaRetangulo.AssemblyInfo.cs
+/Users/maicongavino/dev/dotnet/DotnetReview/pooAreaRetangulo/obj/Debug/net8.0/pooAreaRetangulo.csproj.CoreCompileInputs.cache
+/Users/maicongavino/dev/dotnet/DotnetReview/pooAreaRetangulo/obj/Debug/net8.0/pooAreaRetangulo.sourcelink.json
+/Users/maicongavino/dev/dotnet/DotnetReview/pooAreaRetangulo/obj/Debug/net8.0/pooAreaRetangulo.dll
+/Users/maicongavino/dev/dotnet/DotnetReview/pooAreaRetangulo/obj/Debug/net8.0/refint/pooAreaRetangulo.dll
+/Users/maicongavino/dev/dotnet/DotnetReview/pooAreaRetangulo/obj/Debug/net8.0/pooAreaRetangulo.pdb
+/Users/maicongavino/dev/dotnet/DotnetReview/pooAreaRetangulo/obj/Debug/net8.0/pooAreaRetangulo.genruntimeconfig.cache
+/Users/maicongavino/dev/dotnet/DotnetReview/pooAreaRetangulo/obj/Debug/net8.0/ref/pooAreaRetangulo.dll

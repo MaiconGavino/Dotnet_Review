@@ -8,6 +8,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PooControleDeAnimais", "Poo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pooMaiorIdade", "pooMaiorIdade\pooMaiorIdade.csproj", "{6D797F92-9852-472F-893E-FC34CBD3AAFE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pooAreaRetangulo", "pooAreaRetangulo\pooAreaRetangulo.csproj", "{494D9D54-BD93-4493-8DEC-3C7E40BEE2CA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{6D797F92-9852-472F-893E-FC34CBD3AAFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6D797F92-9852-472F-893E-FC34CBD3AAFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6D797F92-9852-472F-893E-FC34CBD3AAFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{494D9D54-BD93-4493-8DEC-3C7E40BEE2CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{494D9D54-BD93-4493-8DEC-3C7E40BEE2CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{494D9D54-BD93-4493-8DEC-3C7E40BEE2CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{494D9D54-BD93-4493-8DEC-3C7E40BEE2CA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
