@@ -10,6 +10,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pooMaiorIdade", "pooMaiorId
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pooAreaRetangulo", "pooAreaRetangulo\pooAreaRetangulo.csproj", "{494D9D54-BD93-4493-8DEC-3C7E40BEE2CA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pooHoraDoPitch", "pooHoraDoPitch\pooHoraDoPitch.csproj", "{96B56287-39F9-47FF-9317-4424E349B797}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{494D9D54-BD93-4493-8DEC-3C7E40BEE2CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{494D9D54-BD93-4493-8DEC-3C7E40BEE2CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{494D9D54-BD93-4493-8DEC-3C7E40BEE2CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96B56287-39F9-47FF-9317-4424E349B797}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96B56287-39F9-47FF-9317-4424E349B797}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96B56287-39F9-47FF-9317-4424E349B797}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96B56287-39F9-47FF-9317-4424E349B797}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

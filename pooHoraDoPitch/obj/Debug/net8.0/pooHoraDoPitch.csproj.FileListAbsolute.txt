@@ -1,0 +1,15 @@
+/Users/maicongavino/dev/dotnet/DotnetReview/pooHoraDoPitch/bin/Debug/net8.0/pooHoraDoPitch
+/Users/maicongavino/dev/dotnet/DotnetReview/pooHoraDoPitch/bin/Debug/net8.0/pooHoraDoPitch.deps.json
+/Users/maicongavino/dev/dotnet/DotnetReview/pooHoraDoPitch/bin/Debug/net8.0/pooHoraDoPitch.runtimeconfig.json
+/Users/maicongavino/dev/dotnet/DotnetReview/pooHoraDoPitch/bin/Debug/net8.0/pooHoraDoPitch.dll
+/Users/maicongavino/dev/dotnet/DotnetReview/pooHoraDoPitch/bin/Debug/net8.0/pooHoraDoPitch.pdb
+/Users/maicongavino/dev/dotnet/DotnetReview/pooHoraDoPitch/obj/Debug/net8.0/pooHoraDoPitch.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maicongavino/dev/dotnet/DotnetReview/pooHoraDoPitch/obj/Debug/net8.0/pooHoraDoPitch.AssemblyInfoInputs.cache
+/Users/maicongavino/dev/dotnet/DotnetReview/pooHoraDoPitch/obj/Debug/net8.0/pooHoraDoPitch.AssemblyInfo.cs
+/Users/maicongavino/dev/dotnet/DotnetReview/pooHoraDoPitch/obj/Debug/net8.0/pooHoraDoPitch.csproj.CoreCompileInputs.cache
+/Users/maicongavino/dev/dotnet/DotnetReview/pooHoraDoPitch/obj/Debug/net8.0/pooHoraDoPitch.sourcelink.json
+/Users/maicongavino/dev/dotnet/DotnetReview/pooHoraDoPitch/obj/Debug/net8.0/pooHoraDoPitch.dll
+/Users/maicongavino/dev/dotnet/DotnetReview/pooHoraDoPitch/obj/Debug/net8.0/refint/pooHoraDoPitch.dll
+/Users/maicongavino/dev/dotnet/DotnetReview/pooHoraDoPitch/obj/Debug/net8.0/pooHoraDoPitch.pdb
+/Users/maicongavino/dev/dotnet/DotnetReview/pooHoraDoPitch/obj/Debug/net8.0/pooHoraDoPitch.genruntimeconfig.cache
+/Users/maicongavino/dev/dotnet/DotnetReview/pooHoraDoPitch/obj/Debug/net8.0/ref/pooHoraDoPitch.dll
