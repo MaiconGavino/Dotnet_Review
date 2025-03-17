@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("pooAreaRetangulo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2ad45aeaae0eb2c915ea854fa04996d455ec1091")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4ca9a270dc5d6d69b2aaa61602e4f8625b7f5adb")]
 [assembly: System.Reflection.AssemblyProductAttribute("pooAreaRetangulo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("pooAreaRetangulo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
