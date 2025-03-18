@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "pooPokemonV2/1.0.0": {
+        "runtime": {
+          "pooPokemonV2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "pooPokemonV2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

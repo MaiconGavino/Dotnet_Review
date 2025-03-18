@@ -1,0 +1,15 @@
+/Users/maicongavino/dev/dotnet/DotnetReview/pooPokemonV2/bin/Debug/net8.0/pooPokemonV2
+/Users/maicongavino/dev/dotnet/DotnetReview/pooPokemonV2/bin/Debug/net8.0/pooPokemonV2.deps.json
+/Users/maicongavino/dev/dotnet/DotnetReview/pooPokemonV2/bin/Debug/net8.0/pooPokemonV2.runtimeconfig.json
+/Users/maicongavino/dev/dotnet/DotnetReview/pooPokemonV2/bin/Debug/net8.0/pooPokemonV2.dll
+/Users/maicongavino/dev/dotnet/DotnetReview/pooPokemonV2/bin/Debug/net8.0/pooPokemonV2.pdb
+/Users/maicongavino/dev/dotnet/DotnetReview/pooPokemonV2/obj/Debug/net8.0/pooPokemonV2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maicongavino/dev/dotnet/DotnetReview/pooPokemonV2/obj/Debug/net8.0/pooPokemonV2.AssemblyInfoInputs.cache
+/Users/maicongavino/dev/dotnet/DotnetReview/pooPokemonV2/obj/Debug/net8.0/pooPokemonV2.AssemblyInfo.cs
+/Users/maicongavino/dev/dotnet/DotnetReview/pooPokemonV2/obj/Debug/net8.0/pooPokemonV2.csproj.CoreCompileInputs.cache
+/Users/maicongavino/dev/dotnet/DotnetReview/pooPokemonV2/obj/Debug/net8.0/pooPokemonV2.sourcelink.json
+/Users/maicongavino/dev/dotnet/DotnetReview/pooPokemonV2/obj/Debug/net8.0/pooPokemonV2.dll
+/Users/maicongavino/dev/dotnet/DotnetReview/pooPokemonV2/obj/Debug/net8.0/refint/pooPokemonV2.dll
+/Users/maicongavino/dev/dotnet/DotnetReview/pooPokemonV2/obj/Debug/net8.0/pooPokemonV2.pdb
+/Users/maicongavino/dev/dotnet/DotnetReview/pooPokemonV2/obj/Debug/net8.0/pooPokemonV2.genruntimeconfig.cache
+/Users/maicongavino/dev/dotnet/DotnetReview/pooPokemonV2/obj/Debug/net8.0/ref/pooPokemonV2.dll
