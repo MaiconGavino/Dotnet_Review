@@ -20,9 +20,21 @@ namespace ControleDeAnimais
                 Console.WriteLine($"\nCadastro do animais {i+1}:");
                 Console.Write("Digite o nome do animal: ");
                 string nome = Console.ReadLine();
-                Console.Write("Tipo (cachorro, gato ou peixe): ");
-                string tipo = Console.ReadLine();
-                
+                TipoAnimal tipo;
+                while (true)
+                {
+                    Console.Write("Tipo (Cachorro, Gato ou Peixe): ");
+                    string tipoInput = Console.ReadLine();
+                    if (Enum.TryParse(tipoInput, true, out tipo) && Enum.IsDefined(typeof(TipoAnimal), tipo))
+                    {
+                        break;
+                    }
+                    else
+                    {
+                        Console.WriteLine("Tipo inválido. Por favor, digite 'Cachorro', 'Gato' ou 'Peixe'.");
+                    }
+                }
+
                 animais.Add(new Animal(nome, tipo));
             }
 
@@ -34,13 +46,13 @@ namespace ControleDeAnimais
             {
                 switch (animal.Tipo)        
                 {
-                    case "cachorro":
+                    case TipoAnimal.Cachorro:
                         totalCachorros++;
                         break;
-                    case "gato":
+                    case TipoAnimal.Gato:
                         totalGatos++;
                         break;
-                    case "peixe":
+                    case TipoAnimal.Peixe:
                         totalPeixes++;
                         break;
                 }

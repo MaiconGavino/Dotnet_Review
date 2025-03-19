@@ -1,37 +1,27 @@
 namespace ControleDeAnimais;
 
+public enum TipoAnimal {Cachorro, Gato, Peixe}
 public class Animal
 {
-    private String nome;
+    private string nome;
 
     public String Nome
     {
-        get { return this.nome; }
-        set { this.nome = value; }
+        get { return nome; }
+        set { nome = value; }
     } 
     
-    private String tipo;
+    private TipoAnimal tipo;
 
-    public String Tipo
+    public TipoAnimal Tipo
     {
-        get { return this.tipo; }
-        set
-        {
-            String tipoLower = value.ToLower();
-            if (tipoLower == "cachorro" || tipoLower == "gato" || tipoLower == "peixe")
-            {
-                tipo = value;
-            }
-            else
-            {
-                tipo = "peixe";
-            }
-        }
+        get { return tipo; }
+        set { tipo = value; }
     }
 
-    public Animal(String nome, String tipo)
+    public Animal(string nome, TipoAnimal tipo)
     {
-        this.Nome = nome.ToLower();
-        this.Tipo = tipo.ToLower();
+        this.nome = nome;
+        this.tipo = tipo;
     }
 }
