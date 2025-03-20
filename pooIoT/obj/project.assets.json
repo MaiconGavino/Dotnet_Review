@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/maicongavino/dev/dotnet/DotnetReview/pooPagamentos/pooPagamentos.csproj",
-      "projectName": "pooPagamentos",
-      "projectPath": "/Users/maicongavino/dev/dotnet/DotnetReview/pooPagamentos/pooPagamentos.csproj",
+      "projectUniqueName": "/Users/maicongavino/dev/dotnet/DotnetReview/pooIoT/pooIoT.csproj",
+      "projectName": "pooIoT",
+      "projectPath": "/Users/maicongavino/dev/dotnet/DotnetReview/pooIoT/pooIoT.csproj",
       "packagesPath": "/Users/maicongavino/.nuget/packages/",
-      "outputPath": "/Users/maicongavino/dev/dotnet/DotnetReview/pooPagamentos/obj/",
+      "outputPath": "/Users/maicongavino/dev/dotnet/DotnetReview/pooIoT/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/maicongavino/.nuget/NuGet/NuGet.Config"

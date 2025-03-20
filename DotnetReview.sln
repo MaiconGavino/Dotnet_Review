@@ -16,7 +16,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pooPokemon", "pooPokemon\po
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pooPokemonV2", "pooPokemonV2\pooPokemonV2.csproj", "{4C5DF97A-0615-481D-AC8B-072724CED3E6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pooPagamentos", "pooPagamentos\pooPagamentos.csproj", "{8149C177-4D9C-4924-BF01-2292CDE1A12B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pooIoT", "pooIoT\pooIoT.csproj", "{8149C177-4D9C-4924-BF01-2292CDE1A12B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
