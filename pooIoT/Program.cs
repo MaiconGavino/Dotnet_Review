@@ -1,3 +1,12 @@
-﻿// See https://aka.ms/new-console-template for more information
-
-Console.WriteLine("Hello, World!");
+﻿namespace pooIoT
+{
+    class program
+    {
+        public static void Main(string[] args)
+        {
+            Lampada lampada = new Lampada("Sala");
+            lampada.Ligar();
+            lampada.Desligar();
+        }
+    }
+}

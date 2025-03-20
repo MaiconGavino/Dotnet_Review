@@ -1,0 +1,15 @@
+/Users/maicongavino/dev/dotnet/DotnetReview/pooIoT/bin/Debug/net8.0/pooIoT
+/Users/maicongavino/dev/dotnet/DotnetReview/pooIoT/bin/Debug/net8.0/pooIoT.deps.json
+/Users/maicongavino/dev/dotnet/DotnetReview/pooIoT/bin/Debug/net8.0/pooIoT.runtimeconfig.json
+/Users/maicongavino/dev/dotnet/DotnetReview/pooIoT/bin/Debug/net8.0/pooIoT.dll
+/Users/maicongavino/dev/dotnet/DotnetReview/pooIoT/bin/Debug/net8.0/pooIoT.pdb
+/Users/maicongavino/dev/dotnet/DotnetReview/pooIoT/obj/Debug/net8.0/pooIoT.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maicongavino/dev/dotnet/DotnetReview/pooIoT/obj/Debug/net8.0/pooIoT.AssemblyInfoInputs.cache
+/Users/maicongavino/dev/dotnet/DotnetReview/pooIoT/obj/Debug/net8.0/pooIoT.AssemblyInfo.cs
+/Users/maicongavino/dev/dotnet/DotnetReview/pooIoT/obj/Debug/net8.0/pooIoT.csproj.CoreCompileInputs.cache
+/Users/maicongavino/dev/dotnet/DotnetReview/pooIoT/obj/Debug/net8.0/pooIoT.sourcelink.json
+/Users/maicongavino/dev/dotnet/DotnetReview/pooIoT/obj/Debug/net8.0/pooIoT.dll
+/Users/maicongavino/dev/dotnet/DotnetReview/pooIoT/obj/Debug/net8.0/refint/pooIoT.dll
+/Users/maicongavino/dev/dotnet/DotnetReview/pooIoT/obj/Debug/net8.0/pooIoT.pdb
+/Users/maicongavino/dev/dotnet/DotnetReview/pooIoT/obj/Debug/net8.0/pooIoT.genruntimeconfig.cache
+/Users/maicongavino/dev/dotnet/DotnetReview/pooIoT/obj/Debug/net8.0/ref/pooIoT.dll

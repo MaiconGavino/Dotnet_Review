@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("pooIoT")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fee3212e1a639baa5f08755e02813b25f18f6c6c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4aefa647f62458a8607f367d5800441a476fdc0e")]
 [assembly: System.Reflection.AssemblyProductAttribute("pooIoT")]
 [assembly: System.Reflection.AssemblyTitleAttribute("pooIoT")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
