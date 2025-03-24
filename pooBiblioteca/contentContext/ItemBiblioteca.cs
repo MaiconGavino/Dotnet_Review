@@ -1,5 +1,11 @@
+using System.Text.Json.Serialization;
+
 namespace pooBiblioteca.contentContext;
 
+[JsonPolymorphic(TypeDiscriminatorPropertyName = "$type")]
+[JsonDerivedType(typeof(Livros), "livros")]
+[JsonDerivedType(typeof(Revista), "revista")]
+[JsonDerivedType(typeof(Dvds), "dvds")]
 public interface IEmprestavel
 {
     void Emprestar();
