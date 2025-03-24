@@ -18,6 +18,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pooPokemonV2", "pooPokemonV
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pooIoT", "pooIoT\pooIoT.csproj", "{8149C177-4D9C-4924-BF01-2292CDE1A12B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pooBiblioteca", "pooBiblioteca\pooBiblioteca.csproj", "{92F0D8F8-843F-4F31-B0E6-DDC2AFEBBF98}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -60,5 +62,9 @@ Global
 		{8149C177-4D9C-4924-BF01-2292CDE1A12B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8149C177-4D9C-4924-BF01-2292CDE1A12B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8149C177-4D9C-4924-BF01-2292CDE1A12B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92F0D8F8-843F-4F31-B0E6-DDC2AFEBBF98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92F0D8F8-843F-4F31-B0E6-DDC2AFEBBF98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92F0D8F8-843F-4F31-B0E6-DDC2AFEBBF98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92F0D8F8-843F-4F31-B0E6-DDC2AFEBBF98}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
