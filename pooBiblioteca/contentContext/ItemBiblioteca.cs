@@ -8,10 +8,10 @@ public interface IEmprestavel
 public abstract class ItemBiblioteca : IEmprestavel
 {
     private static int contador = 0;
-    public int Id { get;  }
+    protected int Id { get;  }
     public string Titulo { get; set; }
     public string AnoPublicacao { get; set; }
-    public bool Disponivel { get; set; }
+    protected bool Disponivel { get; set; }
 
     public abstract void ExibirDetalhes();
 
