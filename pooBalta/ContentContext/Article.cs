@@ -1,3 +1,5 @@
+using pooBalta.NotificationContext;
+
 namespace pooBalta.ContentContext
 {
     public class Article : Contet

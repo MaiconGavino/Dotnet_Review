@@ -2,7 +2,7 @@ using pooBalta.ContentContex;
 
 namespace pooBalta.ContentContext
 {
-    public class Module
+    public class Module : Base
     {
         public Module()
         {
