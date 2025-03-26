@@ -1,4 +1,5 @@
 using pooBalta.ContentContex;
+using pooBalta.SharedContext;
 
 namespace pooBalta.ContentContext
 {

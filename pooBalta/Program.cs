@@ -1,5 +1,7 @@
 ﻿using pooBalta.ContentContext;
 using pooBalta.NotificationContext;
+using pooBalta.SharedContext;
+using pooBalta.SubscriptionContext;
 
 namespace pooBalta
 {
@@ -51,6 +53,10 @@ namespace pooBalta
                     }
                 }
             }
+
+            var payPal = new PayPalSubscription();
+            var student = new Student();
+            student.CreateSubscriptions(payPal);
         }
     }
 }

@@ -1,5 +1,6 @@
 using pooBalta.ContentContext;
 using pooBalta.ContentContext.Enums;
+using pooBalta.SharedContext;
 
 namespace pooBalta.ContentContex
 {

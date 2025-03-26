@@ -1,6 +1,6 @@
 using pooBalta.NotificationContext;
 
-namespace pooBalta.ContentContext
+namespace pooBalta.SharedContext
 {
     public abstract class Base : Notifiable
     {
