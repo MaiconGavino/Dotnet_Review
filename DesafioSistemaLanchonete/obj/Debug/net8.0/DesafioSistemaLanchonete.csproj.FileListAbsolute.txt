@@ -1,0 +1,15 @@
+/Users/maicongavino/dev/dotnet/DotnetReview/DesafioSistemaLanchonete/bin/Debug/net8.0/DesafioSistemaLanchonete
+/Users/maicongavino/dev/dotnet/DotnetReview/DesafioSistemaLanchonete/bin/Debug/net8.0/DesafioSistemaLanchonete.deps.json
+/Users/maicongavino/dev/dotnet/DotnetReview/DesafioSistemaLanchonete/bin/Debug/net8.0/DesafioSistemaLanchonete.runtimeconfig.json
+/Users/maicongavino/dev/dotnet/DotnetReview/DesafioSistemaLanchonete/bin/Debug/net8.0/DesafioSistemaLanchonete.dll
+/Users/maicongavino/dev/dotnet/DotnetReview/DesafioSistemaLanchonete/bin/Debug/net8.0/DesafioSistemaLanchonete.pdb
+/Users/maicongavino/dev/dotnet/DotnetReview/DesafioSistemaLanchonete/obj/Debug/net8.0/DesafioSistemaLanchonete.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maicongavino/dev/dotnet/DotnetReview/DesafioSistemaLanchonete/obj/Debug/net8.0/DesafioSistemaLanchonete.AssemblyInfoInputs.cache
+/Users/maicongavino/dev/dotnet/DotnetReview/DesafioSistemaLanchonete/obj/Debug/net8.0/DesafioSistemaLanchonete.AssemblyInfo.cs
+/Users/maicongavino/dev/dotnet/DotnetReview/DesafioSistemaLanchonete/obj/Debug/net8.0/DesafioSistemaLanchonete.csproj.CoreCompileInputs.cache
+/Users/maicongavino/dev/dotnet/DotnetReview/DesafioSistemaLanchonete/obj/Debug/net8.0/DesafioSistemaLanchonete.sourcelink.json
+/Users/maicongavino/dev/dotnet/DotnetReview/DesafioSistemaLanchonete/obj/Debug/net8.0/DesafioSistemaLanchonete.dll
+/Users/maicongavino/dev/dotnet/DotnetReview/DesafioSistemaLanchonete/obj/Debug/net8.0/refint/DesafioSistemaLanchonete.dll
+/Users/maicongavino/dev/dotnet/DotnetReview/DesafioSistemaLanchonete/obj/Debug/net8.0/DesafioSistemaLanchonete.pdb
+/Users/maicongavino/dev/dotnet/DotnetReview/DesafioSistemaLanchonete/obj/Debug/net8.0/DesafioSistemaLanchonete.genruntimeconfig.cache
+/Users/maicongavino/dev/dotnet/DotnetReview/DesafioSistemaLanchonete/obj/Debug/net8.0/ref/DesafioSistemaLanchonete.dll

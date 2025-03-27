@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DesafioSistemaLanchonete")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6654636559bcc41ae6535e4a9622bf2e1dba7987")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+35035b1e798124f8e925d9573cfda8e7fcd2f44b")]
 [assembly: System.Reflection.AssemblyProductAttribute("DesafioSistemaLanchonete")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DesafioSistemaLanchonete")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
