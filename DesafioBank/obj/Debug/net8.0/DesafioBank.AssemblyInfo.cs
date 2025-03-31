@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("pooAreaRetangulo")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("DesafioBank")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fcbbf1b4ecbe6b04b441201a9e1625e2c66330d7")]
-[assembly: System.Reflection.AssemblyProductAttribute("pooAreaRetangulo")]
-[assembly: System.Reflection.AssemblyTitleAttribute("pooAreaRetangulo")]
+[assembly: System.Reflection.AssemblyProductAttribute("DesafioBank")]
+[assembly: System.Reflection.AssemblyTitleAttribute("DesafioBank")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

@@ -24,6 +24,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pooBalta", "pooBalta\pooBal
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesafioSistemaLanchonete", "DesafioSistemaLanchonete\DesafioSistemaLanchonete.csproj", "{93E3ACAB-C202-441B-9BC7-0B88D794AD41}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesafioBank", "DesafioBank\DesafioBank.csproj", "{E5BADB52-C439-4D6B-B5B0-CA661F21A3CB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -78,5 +80,9 @@ Global
 		{93E3ACAB-C202-441B-9BC7-0B88D794AD41}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{93E3ACAB-C202-441B-9BC7-0B88D794AD41}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{93E3ACAB-C202-441B-9BC7-0B88D794AD41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5BADB52-C439-4D6B-B5B0-CA661F21A3CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5BADB52-C439-4D6B-B5B0-CA661F21A3CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5BADB52-C439-4D6B-B5B0-CA661F21A3CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5BADB52-C439-4D6B-B5B0-CA661F21A3CB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
