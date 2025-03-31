@@ -1,0 +1,15 @@
+/Users/maicongavino/dev/dotnet/DotnetReview/DesafioBank/bin/Debug/net8.0/DesafioBank
+/Users/maicongavino/dev/dotnet/DotnetReview/DesafioBank/bin/Debug/net8.0/DesafioBank.deps.json
+/Users/maicongavino/dev/dotnet/DotnetReview/DesafioBank/bin/Debug/net8.0/DesafioBank.runtimeconfig.json
+/Users/maicongavino/dev/dotnet/DotnetReview/DesafioBank/bin/Debug/net8.0/DesafioBank.dll
+/Users/maicongavino/dev/dotnet/DotnetReview/DesafioBank/bin/Debug/net8.0/DesafioBank.pdb
+/Users/maicongavino/dev/dotnet/DotnetReview/DesafioBank/obj/Debug/net8.0/DesafioBank.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maicongavino/dev/dotnet/DotnetReview/DesafioBank/obj/Debug/net8.0/DesafioBank.AssemblyInfoInputs.cache
+/Users/maicongavino/dev/dotnet/DotnetReview/DesafioBank/obj/Debug/net8.0/DesafioBank.AssemblyInfo.cs
+/Users/maicongavino/dev/dotnet/DotnetReview/DesafioBank/obj/Debug/net8.0/DesafioBank.csproj.CoreCompileInputs.cache
+/Users/maicongavino/dev/dotnet/DotnetReview/DesafioBank/obj/Debug/net8.0/DesafioBank.sourcelink.json
+/Users/maicongavino/dev/dotnet/DotnetReview/DesafioBank/obj/Debug/net8.0/DesafioBank.dll
+/Users/maicongavino/dev/dotnet/DotnetReview/DesafioBank/obj/Debug/net8.0/refint/DesafioBank.dll
+/Users/maicongavino/dev/dotnet/DotnetReview/DesafioBank/obj/Debug/net8.0/DesafioBank.pdb
+/Users/maicongavino/dev/dotnet/DotnetReview/DesafioBank/obj/Debug/net8.0/DesafioBank.genruntimeconfig.cache
+/Users/maicongavino/dev/dotnet/DotnetReview/DesafioBank/obj/Debug/net8.0/ref/DesafioBank.dll
