@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("pooHoraDoPitch")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fcbbf1b4ecbe6b04b441201a9e1625e2c66330d7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d0e17d8b70fe43214e1f1bda9b7b6ff5b7c1a408")]
 [assembly: System.Reflection.AssemblyProductAttribute("pooHoraDoPitch")]
 [assembly: System.Reflection.AssemblyTitleAttribute("pooHoraDoPitch")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
