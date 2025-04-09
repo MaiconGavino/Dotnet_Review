@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("pooDataAcess")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0d85d3ea69c05926cd94831d8dc20ed7616338eb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+76bbeac05315677726549be8d4391e05b4231cdc")]
 [assembly: System.Reflection.AssemblyProductAttribute("pooDataAcess")]
 [assembly: System.Reflection.AssemblyTitleAttribute("pooDataAcess")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

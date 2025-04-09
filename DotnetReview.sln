@@ -28,6 +28,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesafioBank", "DesafioBank\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pooDataAcess", "pooDataAcess\pooDataAcess.csproj", "{73531E92-E41C-4926-A2D9-0C03EDF57D99}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blog", "Blog\Blog.csproj", "{39E1A470-05B1-4456-9976-BA4AAD00C76A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -90,5 +92,9 @@ Global
 		{73531E92-E41C-4926-A2D9-0C03EDF57D99}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{73531E92-E41C-4926-A2D9-0C03EDF57D99}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{73531E92-E41C-4926-A2D9-0C03EDF57D99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39E1A470-05B1-4456-9976-BA4AAD00C76A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39E1A470-05B1-4456-9976-BA4AAD00C76A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39E1A470-05B1-4456-9976-BA4AAD00C76A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39E1A470-05B1-4456-9976-BA4AAD00C76A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
