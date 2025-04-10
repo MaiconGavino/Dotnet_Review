@@ -12,6 +12,7 @@ namespace blog
         {
             //CreateUser();
             ReadUser();
+            ReadRoles();
         }
 
         public static void ReadUser()
@@ -21,6 +22,15 @@ namespace blog
             foreach (var user in users)
             {
                 Console.WriteLine(user.Name);
+            }
+        }
+        public static void ReadRoles()
+        {
+            var repository = new RoleRepository(new DataBaseConfig());
+            var roles = repository.GetAll();
+            foreach (var role in roles)
+            {
+                Console.WriteLine(role.Name);
             }
         }
 
