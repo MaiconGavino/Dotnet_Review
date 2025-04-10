@@ -1,4 +1,8 @@
-﻿using Microsoft.Data.SqlClient;
+﻿using blog.DataContext;
+using blog.Models;
+using blog.Repositories;
+using Dapper.Contrib.Extensions;
+using Microsoft.Data.SqlClient;
 
 namespace blog
 {
@@ -6,14 +10,36 @@ namespace blog
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            //CreateUser();
+            ReadUser();
         }
 
         public static void ReadUser()
         {
-            using (var connection = new SqlConnection())
+            var repository = new UserRepository(new DataBaseConfig());
+            var users = repository.GetAll();
+            foreach (var user in users)
             {
-                
+                Console.WriteLine(user.Name);
+            }
+        }
+
+        public static void CreateUser()
+        {
+            var dbConfig = new DataBaseConfig();
+            var user = new User()
+            {
+                Name = "admin",
+                Email = "admin@admin.com",
+                Bio = "Minha experiencai em dat",
+                Image = "https://dams",
+                PasswordHash = "#ddsf",
+                Slug = "/admin"
+            };
+            using (var connection = dbConfig.GetConnection())
+            {
+                connection.Insert<User>(user);
+                Console.WriteLine("Cadastrado com sucesso!");
             }
         }
     }
